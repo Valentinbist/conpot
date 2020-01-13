@@ -73,6 +73,9 @@
             <key name="empty">
                 <value type="value">""</value>
             </key>
+             <key name="hardwareID">
+                <value type="value">"6ES7 315-2EH14-0AB0"</value>
+            </key>
         </key_value_mappings>
     </databus>
 </core>
